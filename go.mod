@@ -1,3 +1,3 @@
 module wilson-maze
 
-go 1.27.4
+go 1.20
