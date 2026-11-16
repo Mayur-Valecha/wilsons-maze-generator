@@ -1,17 +1,17 @@
 /*
 Assignment: Language Study Project - Part 2
-Author: [Teammate Name]
+Author: Aryaman Mehra & Mayur Valecha
 Course: CSc 372
 Instructor: L. McCann
 TAs: Muhammad Bilal, Hansen Pranata, Claire Srodawa
-Due Date: TBD
+Due Date: 11/16/2026
 
 Description: Provides the internal representation of a maze.
              Stores the grid dimensions and the four walls of
              each cell. Provides methods to find legal neighbors,
              inspect walls, and connect adjacent cells.
 
-Language: Go (1.20 or later)
+Language: Go 1.27.4 (developed and tested; minimum 1.20)
 Ex. Packages: None.
 Execution: Compiled as part of the wilson-maze module.
 Input: None directly.
@@ -30,7 +30,6 @@ const (
 
 /*
 Struct: Cell
-Author: [Teammate Name]
 Package: main
 Dependencies: None.
 Inheritance: None.
@@ -50,7 +49,6 @@ type Cell struct {
 
 /*
 Struct: Maze
-Author: [Teammate Name]
 Package: main
 Dependencies: None.
 Inheritance: None.

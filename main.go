@@ -1,10 +1,10 @@
 /*
 Assignment: Language Study Project - Part 2
-Author: [Team Member Names]
+Author: Aryaman Mehra & Mayur Valecha
 Course: CSc 372
 Instructor: L. McCann
 TAs: Muhammad Bilal, Hansen Pranata, Claire Srodawa
-Due Date: TBD
+Due Date: 11/16/2026
 
 Description: Generates a random rectangular maze using Wilson's
              algorithm. The user provides the maze dimensions,
@@ -12,7 +12,7 @@ Description: Generates a random rectangular maze using Wilson's
              loop-erased random walks. The resulting maze is
              displayed using '#' characters and spaces.
 
-Language: Go (1.20 or later)
+Language: Go 1.27.4 (developed and tested; minimum 1.20)
 Ex. Packages: bufio, fmt, math/rand, os, strconv,
               strings, time (standard library).
 Execution: go run .

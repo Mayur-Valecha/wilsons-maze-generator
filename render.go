@@ -1,17 +1,17 @@
 /*
 Assignment: Language Study Project - Part 2
-Author: [Team Member Names]
+Author: Aryaman Mehra & Mayur Valecha
 Course: CSc 372
 Instructor: L. McCann
 TAs: Muhammad Bilal, Hansen Pranata, Claire Srodawa
-Due Date: TBD
+Due Date: 11/16/2026
 
 Description: Converts the internal maze representation into
              a text representation. Walls are displayed using
              '#' characters, while cells and open passages
              are displayed using spaces.
 
-Language: Go (1.20 or later)
+Language: Go 1.27.4 (developed and tested; minimum 1.20)
 Ex. Packages: strings (standard library).
 Execution: Compiled as part of the wilson-maze module.
 Input: An initialized maze.

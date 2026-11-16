@@ -1,10 +1,10 @@
 /*
 Assignment: Language Study Project - Part 2
-Author: Aryaman Mehra
+Author: Aryaman Mehra & Mayur Valecha
 Course: CSc 372
 Instructor: L. McCann
 TAs: Muhammad Bilal, Hansen Pranata, Claire Srodawa
-Due Date: TBD
+Due Date: 11/16/2026
 
 Description: Generates a random maze using Wilson's algorithm.
              Selects an initial maze cell and repeatedly performs
@@ -12,7 +12,7 @@ Description: Generates a random maze using Wilson's algorithm.
              Each completed walk joins the existing maze until
              every cell belongs to a single spanning tree.
 
-Language: Go (1.20 or later)
+Language: Go 1.27.4 (developed and tested; minimum 1.20)
 Ex. Packages: math/rand (standard library).
 Execution: Compiled as part of the wilson-maze module.
 Input: An initialized maze and random number generator.

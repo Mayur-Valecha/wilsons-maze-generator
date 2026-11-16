@@ -1,16 +1,16 @@
 /*
 Assignment: Language Study Project - Part 2
-Author: [Team Member Names]
+Author: Aryaman Mehra & Mayur Valecha
 Course: CSc 372
 Instructor: L. McCann
 TAs: Muhammad Bilal, Hansen Pranata, Claire Srodawa
-Due Date: TBD
+Due Date: 11/16/2026
 
 Description: Tests the text representation of mazes, including
              cell centers, open passages, dimensions, and
              exterior boundary walls.
 
-Language: Go (1.20 or later)
+Language: Go 1.27.4 (developed and tested; minimum 1.20)
 Ex. Packages: testing, strings, math/rand (standard library).
 Execution: go test -v
 

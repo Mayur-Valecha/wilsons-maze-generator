@@ -1,15 +1,15 @@
 /*
 Assignment: Language Study Project - Part 2
-Author: [Teammate Name]
+Author: Aryaman Mehra & Mayur Valecha
 Course: CSc 372
 Instructor: L. McCann
 TAs: Muhammad Bilal, Hansen Pranata, Claire Srodawa
-Due Date: TBD
+Due Date: 11/16/2026
 
 Description: Tests maze initialization, neighbor selection,
              and removal of shared walls.
 
-Language: Go (1.20 or later)
+Language: Go 1.27.4 (developed and tested; minimum 1.20)
 Ex. Packages: testing (standard library).
 Execution: go test -v
 
